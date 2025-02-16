@@ -8,6 +8,7 @@ A simple project structure to fits with AI and ML-based project
 
 ## The Project Structure
 Movie recommender system
+
 ├── data/
 
 │ ├── external/  <- API data
